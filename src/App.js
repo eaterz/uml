@@ -6,6 +6,7 @@ import Info3 from "./components/Info3";
 import Info4 from "./components/Info4";
 import Info5 from "./components/Info5";
 import Info6 from "./components/Info6";
+import Info7 from "./components/Info7";
 
 function App() {
     return (
@@ -14,6 +15,7 @@ function App() {
                 <Info1 />
                 <Info2 />
                 <Info3 />
+                <Info7 />
                 <Info5 />
                 <Info4 />
                 <Info6 />
