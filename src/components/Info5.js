@@ -9,10 +9,11 @@ function Info5() {
                 </h1>
                 <div className="w-full flex justify-center">
                     <img
-                        className="w-4/5 md:w-3/4 lg:w-2/3 object-contain rounded-md shadow-md border border-gray-200"
-                        src="/picture.png"
+                        className="w-full object-contain rounded-md shadow-md border border-gray-200"
+                        src="/erd-example.svg"
                         alt="ERD diagramma"
                     />
+
                 </div>
             </div>
         </section>

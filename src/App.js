@@ -14,8 +14,8 @@ function App() {
                 <Info1 />
                 <Info2 />
                 <Info3 />
-                <Info4 />
                 <Info5 />
+                <Info4 />
                 <Info6 />
             </div>
         </main>
