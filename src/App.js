@@ -11,7 +11,7 @@ import Info7 from "./components/Info7";
 function App() {
     return (
         <main className="h-screen overflow-y-scroll snap-y snap-mandatory scroll-smooth">
-            <div className="container mx-auto">
+            <div className=" mx-auto">
                 <Info1 />
                 <Info2 />
                 <Info3 />
